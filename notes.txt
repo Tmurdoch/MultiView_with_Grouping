@@ -1,0 +1,3 @@
+multiple views means there are multiple representations of an object
+
+use different layout managers for each view?
