@@ -11,7 +11,12 @@ public class Model {
     //fields should be private
     private List<ModelListener> subscribers;
 
+    private List<Groupable> data;
+
     public Model() {
         subscribers = new ArrayList<>();
+        data = new ArrayList<>();
     }
+
+
 }
